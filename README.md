@@ -1,12 +1,10 @@
 
 
 <html><head>
-  <meta name="viewport" content="“width=800”">
-  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+  
  
   <title>Nitu Sharaff</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-  <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  
   </head>
   <body>
   <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
@@ -49,8 +47,6 @@ I am interested in Machine Learning, Deep Learning and Computer Vision.
         </td>
       </tr>
       </tbody></table>
-
-</body></html>
 
 
 
