@@ -1,14 +1,11 @@
 
-<html><head>
-  <title>Nitu Sharaff</title>
-  </head>
+<html>
+
   <body>
   <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
     <tbody>
      <tr>
-        <td width="33%">
-        <img src="/assets/sq.jpg" width="200px" style="border-radius:50%">
-        </td>
+        
         
          <td>
       <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
