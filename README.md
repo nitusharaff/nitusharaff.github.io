@@ -7,9 +7,7 @@
   
   </head>
   <body>
-  <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-    <td>
+  
       <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tbody><tr>
         <td width="67%" valign="middle">
