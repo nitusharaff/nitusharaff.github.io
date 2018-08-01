@@ -32,7 +32,7 @@
         </p>
         </td>
         <td width="33%">
-        <img src="about2.jpg" width="200px" style="border-radius:50%">
+        <img src="about2.jpg" >
         </td>
       </tr>
       </tbody></table>
