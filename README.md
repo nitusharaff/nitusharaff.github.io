@@ -1,3 +1,5 @@
+
+
 <html><head>
   <meta name="viewport" content="“width=800”">
   <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
@@ -16,7 +18,7 @@
         <p align="center">
           <name>Nitu Sharaff</name>
         </p>
-        <p align="justify">>I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning.
+        <p align="justify">I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning.
         <br><br>
          Currently, I am a Research Assistant at the Haptics, Robotics and Virtual Interaction lab under <a href="https://sites.usc.edu/culbertson/"> Dr. Heather Culbertson </a> and working in collaboration with Stanford University on a wearable Haptic device. 
         <br><br>
@@ -47,7 +49,6 @@ I am interested in Machine Learning, Deep Learning and Computer Vision.
         </td>
       </tr>
       </tbody></table>
-  
 
 </body></html>
 
