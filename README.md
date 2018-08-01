@@ -14,7 +14,7 @@
       <tbody><tr>
         <td width="67%" valign="middle">
         <p align="center">
-          <name> <font size="7"><b>Nitu Sharaff</b></font></name>
+          <name> <font size="5"><b>Nitu Sharaff</b></font></name>
         </p>
         <p align="justify">I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning.
         <br><br>
@@ -25,7 +25,7 @@
         </p>
         <p align="center">
           <a href="mailto:removethis-sharaff@usc.edu">Email</a> | 
-          <a href="http://www.ntu.edu.sg/home/aseschng/"> CV </a> |
+          <a href="https://github.com/nitusharaff/nitusharaff.github.io/blob/master/cv.pdf"> CV </a> |
           <a href="http://www.linkedin.com/in/nitusharaff/"> LinkedIn </a> | 
           <a href="http://www.github.com/nitusharaff/"> Github </a> | 
           <a href="http://www.nitusharaff.com/"> Personal Website </a>
@@ -39,53 +39,8 @@
       <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tbody><tr>
         <td width="100%" valign="middle">
-          <heading>Research</heading>
+          <heading> <font size="3"><b>Research</b></font></heading>
           <p>
 I am interested in Machine Learning, Deep Learning and Computer Vision.
 
-          </p>
-        </td>
-      </tr>
-      </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+         
