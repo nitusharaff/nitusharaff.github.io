@@ -3,8 +3,8 @@
 
 <h1 align='justify'> Nitu Sharaff </h1>
 
-<\br>
-<\br>
+<br>
+<br>
 <p> I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning. <br>
 
 <br>
