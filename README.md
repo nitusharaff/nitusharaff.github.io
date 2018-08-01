@@ -3,7 +3,7 @@
 <html><head>
   
  
-  <title>Nitu Sharaff</title>
+  
   
   </head>
   <body>
@@ -14,7 +14,7 @@
       <tbody><tr>
         <td width="67%" valign="middle">
         <p align="center">
-          <name>Nitu Sharaff</name>
+          <name> <font size="7"><b>Nitu Sharaff</b></font></name>
         </p>
         <p align="justify">I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning.
         <br><br>
