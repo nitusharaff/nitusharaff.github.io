@@ -5,7 +5,7 @@
   <body>
   <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
     <tbody>
-     <tr
+     <tr>
         <td width="33%">
         <img src="/assets/sq.jpg" width="200px" style="border-radius:50%">
         </td>
@@ -15,7 +15,7 @@
       <tbody><tr>
         <td width="67%" valign="middle">
         <p align="center">
-          <name>Ankit Dhall</name>
+         
         </p>
         <p align="justify">I am a graduate student at University of Southern California, USA studying Data Science and I am specifically interested in exploring the field of Machine Learning and Deep Learning.
         <br><br>
